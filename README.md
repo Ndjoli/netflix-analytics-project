@@ -1,88 +1,67 @@
-
 # 📊 Netflix Data Analysis Dashboard
 
-A complete data analytics project exploring Netflix content using **Excel** and **Power BI**. This project showcases end-to-end analysis, from data cleaning to interactive dashboard design.
+A complete data analytics project exploring Netflix content using **Excel** and **Power BI**. This project showcases end-to-end analysis — from data cleaning in Excel to interactive visualization in Power BI.
 
 ---
 
 ## 🧠 Project Overview
 
-This project dives into a Netflix dataset to uncover:
-- Distribution of movies vs. TV shows
-- Most common content ratings (TV-MA, PG-13, etc.)
-- Duration analysis of content
-- Year-wise release trends
-- Country-wise content contributions
-
+This project dives into the Netflix dataset to uncover:
+- 🍿 Distribution of **Movies vs. TV Shows**
+- 🏷️ Most common **content ratings** (e.g., TV-MA, PG-13)
+- ⏱️ **Duration** trends across genres
+- 📆 **Year-wise release** patterns
+- 🌍 **Country-wise** content contributions
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies Used
 
-- Microsoft Excel  
-  ▸ Data Cleaning  
-  ▸ Pivot Tables  
-  ▸ Static Charts
+### 📗 Microsoft Excel  
+- Data Cleaning  
+- Pivot Tables  
+- Static Charts  
 
-- Power BI  
-  ▸ Interactive Dashboard  
-  ▸ Slicers & Filters  
-  ▸ Custom Theme & Branding
+### 📘 Power BI  
+- Interactive Dashboard  
+- Slicers & Filters  
+- Custom Theme & Branding  
 
 ---
 
 ## 📁 Project Structure
 
-```bash
+```
 📂 Netflix_Data_Analysis_Dashboard/
-├── 📊 Excel_Final_File.xlsx
-├── 📊 PowerBI_Dashboard.pbix
-├── 📸 Screenshots/
-│   ├── dashboard_overview.png
-│   └── charts_sheet.png
-├── 📄 Netflix_Cleaned_For_PowerBI.csv
-└── 📘 README.md
+│
+├── 📊 Excel_Final_File.xlsx           # Cleaned & analyzed dataset  
+├── 📊 PowerBI_Dashboard.pbix          # Interactive dashboard  
+├── 📸 Screenshots/                    
+│   └── dashboard_overview.png         # Power BI dashboard view  
+├── 📄 Netflix_Cleaned_For_PowerBI.csv # CSV used for Power BI model  
+└── 📘 README.md                        # Project documentation  
 ```
 
 ---
 
 ## 📈 Dashboard Highlights
 
-- 🎯 KPI cards for Total Shows, Movies, Series
-- 🍿 Pie chart for Show Duration
-- 📊 Yearly content release chart
-- 🌎 Top countries by content production
-- 🏷 View Rating distribution pie chart
-- 🎛 Filters for Genre & Titles
+- 🎯 **KPI Cards**: Total number of shows, movies, and TV series  
+- 🕒 **Duration Analysis**: Explore how long content typically runs  
+- 📆 **Yearly Trends**: Visualize content release over time  
+- 🌎 **Country Insights**: Top contributing countries by content  
+- 🏷️ **Content Ratings**: Distribution of ratings like TV-MA, PG, etc.  
+- 🎛 **Interactive Filters**: Slice by genre, release year, or title  
 
 ---
 
-## 📥 How to Use
+## 📸 Dashboard Screenshot
 
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/netflix-data-analysis-dashboard.git
-```
-
-2. Open the Excel or Power BI files to explore the dashboard.
+![Netflix Dashboard](Screenshot%202025-05-17%20230458.png)
 
 ---
 
-## 🔍 Insights Extracted
+## 📬 Contact
 
-- TV Shows dominate content in recent years
-- TV-MA is the most common rating
-- India and the US produce the most Netflix content
-- Most content is 1–2 hours in duration
-
----
-
-## 🧑‍💻 Author
-
-**Iloyeka Arman Ndjoli**  
-Data Analyst | Excel | Power BI | SQL | Python  
-[LinkedIn](https://www.linkedin.com/in/arman-ndjoli97) · [GitHub](https://github.com/Ndjoli)
-
----
-
-> ⭐ If you liked this project, consider giving it a star!
+📧 [armanndjoli97@gmail.com](mailto:armanndjoli97@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arman-ndjoli97)
